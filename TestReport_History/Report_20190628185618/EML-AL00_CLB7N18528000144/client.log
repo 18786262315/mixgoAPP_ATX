@@ -1,0 +1,83 @@
+2019-06-28 18:56:26,968 - EML-AL00 - INFO - udid: CLB7N18528000144-b8:94:36:b9:d5:e2-EML-AL00
+2019-06-28 18:56:27,263 - EML-AL00 - DEBUG - --> apk_install.setUpClass
+2019-06-28 18:56:27,560 - EML-AL00 - DEBUG - <-- apk_install.setUpClass, Success
+
+2019-06-28 18:56:27,561 - EML-AL00 - DEBUG - --> apk_install.setUp
+2019-06-28 18:56:27,561 - EML-AL00 - DEBUG - <-- apk_install.setUp, Success
+
+2019-06-28 18:56:27,562 - EML-AL00 - DEBUG - --> apk_install.test_01_install_apk
+2019-06-28 18:57:00,882 - EML-AL00 - DEBUG - <-- apk_install.test_01_install_apk, Success
+
+2019-06-28 18:57:00,882 - EML-AL00 - DEBUG - --> apk_install.tearDown
+2019-06-28 18:57:00,883 - EML-AL00 - DEBUG - <-- apk_install.tearDown, Success
+
+2019-06-28 18:57:00,884 - EML-AL00 - DEBUG - --> apk_install.setUp
+2019-06-28 18:57:00,886 - EML-AL00 - DEBUG - <-- apk_install.setUp, Success
+
+2019-06-28 18:57:00,886 - EML-AL00 - DEBUG - --> apk_install.test_02_fail
+2019-06-28 18:57:21,282 - EML-AL00 - ERROR - Exception, -32002 Client error: <> data: , method: None
+2019-06-28 18:57:21,283 - EML-AL00 - ERROR - <-- apk_install.test_02_fail, Exception, Error
+
+2019-06-28 18:57:21,902 - EML-AL00 - DEBUG - --> apk_install.tearDown
+2019-06-28 18:57:21,902 - EML-AL00 - DEBUG - <-- apk_install.tearDown, Success
+
+2019-06-28 18:57:21,904 - EML-AL00 - DEBUG - --> apk_install.setUp
+2019-06-28 18:57:21,905 - EML-AL00 - DEBUG - <-- apk_install.setUp, Success
+
+2019-06-28 18:57:21,905 - EML-AL00 - DEBUG - --> apk_install.test_03_screenshot
+2019-06-28 18:57:23,596 - EML-AL00 - DEBUG - <-- apk_install.test_03_screenshot, Success
+
+2019-06-28 18:57:23,596 - EML-AL00 - DEBUG - --> apk_install.tearDown
+2019-06-28 18:57:23,596 - EML-AL00 - DEBUG - <-- apk_install.tearDown, Success
+
+2019-06-28 18:57:23,598 - EML-AL00 - DEBUG - --> apk_install.setUp
+2019-06-28 18:57:23,598 - EML-AL00 - DEBUG - <-- apk_install.setUp, Success
+
+2019-06-28 18:57:23,598 - EML-AL00 - DEBUG - --> apk_install.test_04_error
+2019-06-28 18:57:23,599 - EML-AL00 - ERROR - Exception, 手动ERROR!!!!!!!
+2019-06-28 18:57:23,599 - EML-AL00 - ERROR - <-- apk_install.test_04_error, Exception, Error
+
+2019-06-28 18:57:24,198 - EML-AL00 - DEBUG - --> apk_install.tearDown
+2019-06-28 18:57:24,198 - EML-AL00 - DEBUG - <-- apk_install.tearDown, Success
+
+2019-06-28 18:57:24,199 - EML-AL00 - DEBUG - --> apk_install.tearDownClass
+2019-06-28 18:57:24,372 - EML-AL00 - DEBUG - <-- apk_install.tearDownClass, Success
+
+2019-06-28 18:57:24,372 - EML-AL00 - DEBUG - --> TestBootStrap.setUpClass
+2019-06-28 18:57:25,026 - EML-AL00 - DEBUG - <-- TestBootStrap.setUpClass, Success
+
+2019-06-28 18:57:25,027 - EML-AL00 - DEBUG - --> TestBootStrap.setUp
+2019-06-28 18:57:25,027 - EML-AL00 - DEBUG - <-- TestBootStrap.setUp, Success
+
+2019-06-28 18:57:25,027 - EML-AL00 - DEBUG - --> TestBootStrap.test_01_login
+2019-06-28 18:57:25,028 - EML-AL00 - INFO - --> login_page.wait_page
+2019-06-28 18:57:27,146 - EML-AL00 - ERROR - Exception, Not in LoginPage
+2019-06-28 18:57:27,148 - EML-AL00 - ERROR - 	<-- login_page.wait_page, Exception, Error
+2019-06-28 18:57:27,149 - EML-AL00 - ERROR - Exception, Not in LoginPage
+2019-06-28 18:57:27,152 - EML-AL00 - ERROR - <-- TestBootStrap.test_01_login, Exception, Error
+
+2019-06-28 18:57:27,601 - EML-AL00 - DEBUG - --> TestBootStrap.tearDown
+2019-06-28 18:57:27,602 - EML-AL00 - DEBUG - <-- TestBootStrap.tearDown, Success
+
+2019-06-28 18:57:27,603 - EML-AL00 - DEBUG - --> TestBootStrap.setUp
+2019-06-28 18:57:27,604 - EML-AL00 - DEBUG - <-- TestBootStrap.setUp, Success
+
+2019-06-28 18:57:27,604 - EML-AL00 - DEBUG - --> TestBootStrap.test_02_show_toast
+2019-06-28 18:57:47,972 - EML-AL00 - ERROR - Exception, -32002 Client error: <> data: , method: None
+2019-06-28 18:57:47,972 - EML-AL00 - ERROR - <-- TestBootStrap.test_02_show_toast, Exception, Error
+
+2019-06-28 18:57:48,545 - EML-AL00 - DEBUG - --> TestBootStrap.tearDown
+2019-06-28 18:57:48,545 - EML-AL00 - DEBUG - <-- TestBootStrap.tearDown, Success
+
+2019-06-28 18:57:48,546 - EML-AL00 - DEBUG - --> TestBootStrap.setUp
+2019-06-28 18:57:48,546 - EML-AL00 - DEBUG - <-- TestBootStrap.setUp, Success
+
+2019-06-28 18:57:48,547 - EML-AL00 - DEBUG - --> TestBootStrap.test_03_auto_click_alert
+2019-06-28 18:57:48,547 - EML-AL00 - DEBUG - <-- TestBootStrap.test_03_auto_click_alert, Success
+
+2019-06-28 18:57:48,547 - EML-AL00 - DEBUG - --> TestBootStrap.tearDown
+2019-06-28 18:57:48,547 - EML-AL00 - DEBUG - <-- TestBootStrap.tearDown, Success
+
+2019-06-28 18:57:48,548 - EML-AL00 - DEBUG - --> TestBootStrap.tearDownClass
+2019-06-28 18:57:48,725 - EML-AL00 - DEBUG - <-- TestBootStrap.tearDownClass, Success
+

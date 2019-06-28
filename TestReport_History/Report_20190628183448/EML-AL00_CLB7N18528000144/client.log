@@ -1,0 +1,45 @@
+2019-06-28 18:34:56,815 - EML-AL00 - INFO - udid: CLB7N18528000144-b8:94:36:b9:d5:e2-EML-AL00
+2019-06-28 18:34:57,554 - EML-AL00 - DEBUG - --> apk_install.setUpClass
+2019-06-28 18:34:57,892 - EML-AL00 - DEBUG - <-- apk_install.setUpClass, Success
+
+2019-06-28 18:34:57,892 - EML-AL00 - DEBUG - --> apk_install.setUp
+2019-06-28 18:34:57,893 - EML-AL00 - DEBUG - <-- apk_install.setUp, Success
+
+2019-06-28 18:34:57,894 - EML-AL00 - DEBUG - --> apk_install.test_01_install_apk
+2019-06-28 18:35:57,155 - EML-AL00 - DEBUG - <-- apk_install.test_01_install_apk, Success
+
+2019-06-28 18:35:57,155 - EML-AL00 - DEBUG - --> apk_install.tearDown
+2019-06-28 18:35:57,156 - EML-AL00 - DEBUG - <-- apk_install.tearDown, Success
+
+2019-06-28 18:35:57,157 - EML-AL00 - DEBUG - --> apk_install.setUp
+2019-06-28 18:35:57,157 - EML-AL00 - DEBUG - <-- apk_install.setUp, Success
+
+2019-06-28 18:35:57,158 - EML-AL00 - DEBUG - --> apk_install.test_02_fail
+2019-06-28 18:36:17,524 - EML-AL00 - ERROR - Exception, -32002 Client error: <> data: , method: None
+2019-06-28 18:36:17,525 - EML-AL00 - ERROR - <-- apk_install.test_02_fail, Exception, Error
+
+2019-06-28 18:36:18,096 - EML-AL00 - DEBUG - --> apk_install.tearDown
+2019-06-28 18:36:18,096 - EML-AL00 - DEBUG - <-- apk_install.tearDown, Success
+
+2019-06-28 18:36:18,104 - EML-AL00 - DEBUG - --> apk_install.setUp
+2019-06-28 18:36:18,104 - EML-AL00 - DEBUG - <-- apk_install.setUp, Success
+
+2019-06-28 18:36:18,105 - EML-AL00 - DEBUG - --> apk_install.test_03_screenshot
+2019-06-28 18:36:19,935 - EML-AL00 - DEBUG - <-- apk_install.test_03_screenshot, Success
+
+2019-06-28 18:36:19,936 - EML-AL00 - DEBUG - --> apk_install.tearDown
+2019-06-28 18:36:19,937 - EML-AL00 - DEBUG - <-- apk_install.tearDown, Success
+
+2019-06-28 18:36:19,938 - EML-AL00 - DEBUG - --> apk_install.setUp
+2019-06-28 18:36:19,938 - EML-AL00 - DEBUG - <-- apk_install.setUp, Success
+
+2019-06-28 18:36:19,938 - EML-AL00 - DEBUG - --> apk_install.test_04_error
+2019-06-28 18:36:19,938 - EML-AL00 - ERROR - Exception, 手动ERROR!!!!!!!
+2019-06-28 18:36:19,939 - EML-AL00 - ERROR - <-- apk_install.test_04_error, Exception, Error
+
+2019-06-28 18:36:20,494 - EML-AL00 - DEBUG - --> apk_install.tearDown
+2019-06-28 18:36:20,494 - EML-AL00 - DEBUG - <-- apk_install.tearDown, Success
+
+2019-06-28 18:36:20,497 - EML-AL00 - DEBUG - --> apk_install.tearDownClass
+2019-06-28 18:36:20,675 - EML-AL00 - DEBUG - <-- apk_install.tearDownClass, Success
+

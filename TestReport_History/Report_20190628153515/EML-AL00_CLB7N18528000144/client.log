@@ -1,0 +1,20 @@
+2019-06-28 15:35:24,089 - EML-AL00 - INFO - udid: CLB7N18528000144-b8:94:36:b9:d5:e2-EML-AL00
+2019-06-28 15:35:24,973 - EML-AL00 - DEBUG - --> apk_install.setUpClass
+2019-06-28 15:35:25,202 - EML-AL00 - DEBUG - <-- apk_install.setUpClass, Success
+
+2019-06-28 15:35:25,204 - EML-AL00 - DEBUG - --> apk_install.setUp
+2019-06-28 15:35:25,204 - EML-AL00 - DEBUG - <-- apk_install.setUp, Success
+
+2019-06-28 15:35:25,204 - EML-AL00 - DEBUG - --> apk_install.test_01_install_apk
+2019-06-28 15:35:54,386 - EML-AL00 - INFO - --> login_page.wait_page
+2019-06-28 15:36:09,717 - EML-AL00 - ERROR - Exception, Not in LoginPage
+2019-06-28 15:36:09,718 - EML-AL00 - ERROR - 	<-- login_page.wait_page, Exception, Error
+2019-06-28 15:36:09,719 - EML-AL00 - ERROR - Exception, Not in LoginPage
+2019-06-28 15:36:09,720 - EML-AL00 - ERROR - <-- apk_install.test_01_install_apk, Exception, Error
+
+2019-06-28 15:36:10,307 - EML-AL00 - DEBUG - --> apk_install.tearDown
+2019-06-28 15:36:10,307 - EML-AL00 - DEBUG - <-- apk_install.tearDown, Success
+
+2019-06-28 15:36:10,314 - EML-AL00 - DEBUG - --> apk_install.tearDownClass
+2019-06-28 15:36:10,516 - EML-AL00 - DEBUG - <-- apk_install.tearDownClass, Success
+

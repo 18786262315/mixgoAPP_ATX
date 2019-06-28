@@ -1,0 +1,84 @@
+2019-06-28 18:58:18,153 - EML-AL00 - INFO - udid: CLB7N18528000144-b8:94:36:b9:d5:e2-EML-AL00
+2019-06-28 18:58:18,672 - EML-AL00 - DEBUG - --> apk_install.setUpClass
+2019-06-28 18:58:19,310 - EML-AL00 - DEBUG - <-- apk_install.setUpClass, Success
+
+2019-06-28 18:58:19,311 - EML-AL00 - DEBUG - --> apk_install.setUp
+2019-06-28 18:58:19,311 - EML-AL00 - DEBUG - <-- apk_install.setUp, Success
+
+2019-06-28 18:58:19,311 - EML-AL00 - DEBUG - --> apk_install.test_01_install_apk
+2019-06-28 19:00:01,560 - EML-AL00 - DEBUG - <-- apk_install.test_01_install_apk, Success
+
+2019-06-28 19:00:01,560 - EML-AL00 - DEBUG - --> apk_install.tearDown
+2019-06-28 19:00:01,561 - EML-AL00 - DEBUG - <-- apk_install.tearDown, Success
+
+2019-06-28 19:00:01,561 - EML-AL00 - DEBUG - --> apk_install.setUp
+2019-06-28 19:00:01,562 - EML-AL00 - DEBUG - <-- apk_install.setUp, Success
+
+2019-06-28 19:00:01,562 - EML-AL00 - DEBUG - --> apk_install.test_02_fail
+2019-06-28 19:00:02,662 - EML-AL00 - DEBUG - <-- apk_install.test_02_fail, Success
+
+2019-06-28 19:00:02,662 - EML-AL00 - DEBUG - --> apk_install.tearDown
+2019-06-28 19:00:02,663 - EML-AL00 - DEBUG - <-- apk_install.tearDown, Success
+
+2019-06-28 19:00:02,665 - EML-AL00 - DEBUG - --> apk_install.setUp
+2019-06-28 19:00:02,666 - EML-AL00 - DEBUG - <-- apk_install.setUp, Success
+
+2019-06-28 19:00:02,667 - EML-AL00 - DEBUG - --> apk_install.test_03_screenshot
+2019-06-28 19:00:04,133 - EML-AL00 - DEBUG - <-- apk_install.test_03_screenshot, Success
+
+2019-06-28 19:00:04,133 - EML-AL00 - DEBUG - --> apk_install.tearDown
+2019-06-28 19:00:04,133 - EML-AL00 - DEBUG - <-- apk_install.tearDown, Success
+
+2019-06-28 19:00:04,134 - EML-AL00 - DEBUG - --> apk_install.setUp
+2019-06-28 19:00:04,135 - EML-AL00 - DEBUG - <-- apk_install.setUp, Success
+
+2019-06-28 19:00:04,135 - EML-AL00 - DEBUG - --> apk_install.test_04_error
+2019-06-28 19:00:04,136 - EML-AL00 - ERROR - Exception, 手动ERROR!!!!!!!
+2019-06-28 19:00:04,137 - EML-AL00 - ERROR - <-- apk_install.test_04_error, Exception, Error
+
+2019-06-28 19:00:04,716 - EML-AL00 - DEBUG - --> apk_install.tearDown
+2019-06-28 19:00:04,717 - EML-AL00 - DEBUG - <-- apk_install.tearDown, Success
+
+2019-06-28 19:00:04,735 - EML-AL00 - DEBUG - --> apk_install.tearDownClass
+2019-06-28 19:00:04,966 - EML-AL00 - DEBUG - <-- apk_install.tearDownClass, Success
+
+2019-06-28 19:00:04,966 - EML-AL00 - DEBUG - --> TestBootStrap.setUpClass
+2019-06-28 19:00:05,673 - EML-AL00 - DEBUG - <-- TestBootStrap.setUpClass, Success
+
+2019-06-28 19:00:05,674 - EML-AL00 - DEBUG - --> TestBootStrap.setUp
+2019-06-28 19:00:05,674 - EML-AL00 - DEBUG - <-- TestBootStrap.setUp, Success
+
+2019-06-28 19:00:05,675 - EML-AL00 - DEBUG - --> TestBootStrap.test_01_login
+2019-06-28 19:00:05,676 - EML-AL00 - INFO - --> login_page.wait_page
+2019-06-28 19:00:09,024 - EML-AL00 - INFO - --> login_page.input_username
+2019-06-28 19:00:09,025 - EML-AL00 - INFO - 输入用户名:ycc843092012@gmail.com
+2019-06-28 19:00:09,236 - EML-AL00 - INFO - --> login_page.input_password
+2019-06-28 19:00:09,236 - EML-AL00 - INFO - 输入密码:123456
+2019-06-28 19:00:09,335 - EML-AL00 - INFO - --> login_page.click_login_btn
+2019-06-28 19:00:09,335 - EML-AL00 - INFO - 点击登录按钮
+2019-06-28 19:00:30,284 - EML-AL00 - DEBUG - <-- TestBootStrap.test_01_login, Success
+
+2019-06-28 19:00:30,285 - EML-AL00 - DEBUG - --> TestBootStrap.tearDown
+2019-06-28 19:00:30,286 - EML-AL00 - DEBUG - <-- TestBootStrap.tearDown, Success
+
+2019-06-28 19:00:30,287 - EML-AL00 - DEBUG - --> TestBootStrap.setUp
+2019-06-28 19:00:30,287 - EML-AL00 - DEBUG - <-- TestBootStrap.setUp, Success
+
+2019-06-28 19:00:30,288 - EML-AL00 - DEBUG - --> TestBootStrap.test_02_show_toast
+2019-06-28 19:00:40,965 - EML-AL00 - DEBUG - <-- TestBootStrap.test_02_show_toast, Success
+
+2019-06-28 19:00:40,966 - EML-AL00 - DEBUG - --> TestBootStrap.tearDown
+2019-06-28 19:00:40,969 - EML-AL00 - DEBUG - <-- TestBootStrap.tearDown, Success
+
+2019-06-28 19:00:40,997 - EML-AL00 - DEBUG - --> TestBootStrap.setUp
+2019-06-28 19:00:40,997 - EML-AL00 - DEBUG - <-- TestBootStrap.setUp, Success
+
+2019-06-28 19:00:40,998 - EML-AL00 - DEBUG - --> TestBootStrap.test_03_auto_click_alert
+2019-06-28 19:00:40,999 - EML-AL00 - DEBUG - <-- TestBootStrap.test_03_auto_click_alert, Success
+
+2019-06-28 19:00:40,999 - EML-AL00 - DEBUG - --> TestBootStrap.tearDown
+2019-06-28 19:00:40,999 - EML-AL00 - DEBUG - <-- TestBootStrap.tearDown, Success
+
+2019-06-28 19:00:41,000 - EML-AL00 - DEBUG - --> TestBootStrap.tearDownClass
+2019-06-28 19:00:41,182 - EML-AL00 - DEBUG - <-- TestBootStrap.tearDownClass, Success
+
